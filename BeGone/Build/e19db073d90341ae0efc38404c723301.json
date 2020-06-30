@@ -1,0 +1,16 @@
+{
+"companyName": "SDStudio",
+"productName": "FPSBase",
+"productVersion": "0.4",
+"dataUrl": "2771ad8e3efaa090df0c5beedfbb94db.unityweb",
+"wasmCodeUrl": "7367eed1ddcb91eedb7bcfb725075b0f.unityweb",
+"wasmFrameworkUrl": "3051aeece13d6387b100e5ad90ab19e0.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
